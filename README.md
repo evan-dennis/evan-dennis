@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evan-dennis
-- 👀 I’m interested in electronics
+- 👀 I’m interested in economics
 - 🌱 I’m currently learning data science/python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me I dunno
